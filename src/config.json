@@ -1,0 +1,11 @@
+{
+    "mirror all decks as filtered": [
+        {
+            "additional search term": "is:due  prop:ivl>=4",
+            "max cards": 9999,
+            "reschedule based on answers": true,
+            "selected by/order": 8,
+            "parent deck name": "0::Relative overdueness"
+        }
+    ]
+}
